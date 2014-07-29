@@ -1,4 +1,3 @@
-mage-top-menu
+Magento main menu - show products count in categories items
 =============
 
-magento-top-menu-product-count
